@@ -113,6 +113,7 @@ body {
   display: flex;
   justify-content: space-between; 
   font-weight: 700;
+  background-color: black;
 }
 
 .div-1, .div-2, .div-3 {
@@ -120,12 +121,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #fff;
+  color: white;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: black;
   height: 300px;
   width: 30%;
+  text-align: left;
 }
 
 
